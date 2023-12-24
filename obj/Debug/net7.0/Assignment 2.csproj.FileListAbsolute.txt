@@ -1,0 +1,28 @@
+D:\bizybizy\hip hop\Assignment 2\bin\Debug\net7.0\Assignment 2.exe
+D:\bizybizy\hip hop\Assignment 2\bin\Debug\net7.0\Assignment 2.deps.json
+D:\bizybizy\hip hop\Assignment 2\bin\Debug\net7.0\Assignment 2.runtimeconfig.json
+D:\bizybizy\hip hop\Assignment 2\bin\Debug\net7.0\Assignment 2.dll
+D:\bizybizy\hip hop\Assignment 2\bin\Debug\net7.0\Assignment 2.pdb
+D:\bizybizy\hip hop\Assignment 2\obj\Debug\net7.0\Assignment 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\bizybizy\hip hop\Assignment 2\obj\Debug\net7.0\Assignment 2.AssemblyInfoInputs.cache
+D:\bizybizy\hip hop\Assignment 2\obj\Debug\net7.0\Assignment 2.AssemblyInfo.cs
+D:\bizybizy\hip hop\Assignment 2\obj\Debug\net7.0\Assignment 2.csproj.CoreCompileInputs.cache
+D:\bizybizy\hip hop\Assignment 2\obj\Debug\net7.0\Assignment 2.dll
+D:\bizybizy\hip hop\Assignment 2\obj\Debug\net7.0\refint\Assignment 2.dll
+D:\bizybizy\hip hop\Assignment 2\obj\Debug\net7.0\Assignment 2.pdb
+D:\bizybizy\hip hop\Assignment 2\obj\Debug\net7.0\Assignment 2.genruntimeconfig.cache
+D:\bizybizy\hip hop\Assignment 2\obj\Debug\net7.0\ref\Assignment 2.dll
+D:\bizybizy\hip hop\SAMUEL GONDWE  BSC-58-20  ASSIGNMENT 2\bin\Debug\net7.0\Assignment 2.exe
+D:\bizybizy\hip hop\SAMUEL GONDWE  BSC-58-20  ASSIGNMENT 2\bin\Debug\net7.0\Assignment 2.deps.json
+D:\bizybizy\hip hop\SAMUEL GONDWE  BSC-58-20  ASSIGNMENT 2\bin\Debug\net7.0\Assignment 2.runtimeconfig.json
+D:\bizybizy\hip hop\SAMUEL GONDWE  BSC-58-20  ASSIGNMENT 2\bin\Debug\net7.0\Assignment 2.dll
+D:\bizybizy\hip hop\SAMUEL GONDWE  BSC-58-20  ASSIGNMENT 2\bin\Debug\net7.0\Assignment 2.pdb
+D:\bizybizy\hip hop\SAMUEL GONDWE  BSC-58-20  ASSIGNMENT 2\obj\Debug\net7.0\Assignment 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\bizybizy\hip hop\SAMUEL GONDWE  BSC-58-20  ASSIGNMENT 2\obj\Debug\net7.0\Assignment 2.AssemblyInfoInputs.cache
+D:\bizybizy\hip hop\SAMUEL GONDWE  BSC-58-20  ASSIGNMENT 2\obj\Debug\net7.0\Assignment 2.AssemblyInfo.cs
+D:\bizybizy\hip hop\SAMUEL GONDWE  BSC-58-20  ASSIGNMENT 2\obj\Debug\net7.0\Assignment 2.csproj.CoreCompileInputs.cache
+D:\bizybizy\hip hop\SAMUEL GONDWE  BSC-58-20  ASSIGNMENT 2\obj\Debug\net7.0\Assignment 2.dll
+D:\bizybizy\hip hop\SAMUEL GONDWE  BSC-58-20  ASSIGNMENT 2\obj\Debug\net7.0\refint\Assignment 2.dll
+D:\bizybizy\hip hop\SAMUEL GONDWE  BSC-58-20  ASSIGNMENT 2\obj\Debug\net7.0\Assignment 2.pdb
+D:\bizybizy\hip hop\SAMUEL GONDWE  BSC-58-20  ASSIGNMENT 2\obj\Debug\net7.0\Assignment 2.genruntimeconfig.cache
+D:\bizybizy\hip hop\SAMUEL GONDWE  BSC-58-20  ASSIGNMENT 2\obj\Debug\net7.0\ref\Assignment 2.dll
